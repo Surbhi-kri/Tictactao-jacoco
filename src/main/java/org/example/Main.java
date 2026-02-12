@@ -51,6 +51,7 @@ public class Main {
         }
     }
 
+
     static void bothAI(String typeX, String typeO) {
         printBoard(tictac);
         while (true) {
